@@ -3,7 +3,7 @@
 ### Images and Badges by WieWaldi
 > *My personal set of images and badges*
 
-[![MIT Licence](https://https://raw.githubusercontent.com/WieWaldi/images-n-badges/master/badges/licence_mit.svg)](https://opensource.org/licenses/mit-license.php)
+[![MIT Licence](https://raw.githubusercontent.com/WieWaldi/images-n-badges/master/badges/licence_mit.svg)](https://opensource.org/licenses/mit-license.php)
 
 ## Motivation
 Kind of childish but it looks nice having these badges placed in websites.
